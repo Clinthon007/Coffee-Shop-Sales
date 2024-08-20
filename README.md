@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-It's a coffee shop chain with three (3) different locations in New York City. 
+It's a coffee shop chain with three (3) different locations in New York City (Astoria, Hell's Kitchen, and Lower Manhattan). 
 
 To better understand the purchase behaviour and streamline operations through the raw transactional data collected from Jan-Jun 2023 (first half of the year). The goal is to transform the data into dynamic dashboard that the franchise owners can use to identify patterns, trends and opportunities for the business.
 
@@ -54,7 +54,8 @@ EDAs were carried out with the use of **Pivot Tables** and **Pivot Charts** to l
 ---
 
 ### Data Analysis
-
+  For Location in **ASTORIA:**
+  
 **1. Revenue by Month 
 
 ![Monthly_Revenue](https://github.com/user-attachments/assets/8b63bacf-8a4b-493c-a28c-358fd4c42e6f)
@@ -78,3 +79,32 @@ June: The upward trend continued, with the highest revenue recorded at $55,083.1
    - The coffee shop's revenue shows an overall increasing trend from January to June.
    - Despite a dip in February, the revenue consistently increased each month afterward.
    - The steepest growth occurred between March and April, and again between April and May.
+
+ **2.**
+ 
+   **I. Number of transactions by **Weekday****
+
+   ![Weekday_transactions](https://github.com/user-attachments/assets/294b9c4c-5821-4c69-9f42-dd08a5ec8c5b)
+
+   - Monday: The transactions are relatively high, with a count of just over 7,400. This is one of the busiest days of the week.
+
+   - Tuesday: There is a noticeable drop in transactions, with the count slightly above 7,000. Tuesday has fewer transactions compared to other weekdays.
+
+   - Wednesday: The number of transactions increases again, reaching around 7,300. This indicates a recovery after the drop on Tuesday.
+
+   - Thursday: This is the peak day for transactions, with the highest count close to 7,500. Thursday is the busiest day of the week.
+
+   - Friday: Transactions are slightly lower than Thursday but still strong, with counts around 7,400.
+
+   - Saturday: There is a significant drop, with transactions falling to around 6,900. This is one of the less busy days of the week.
+
+   - Sunday: The number of transactions increases slightly to about 7,000 but remains lower than most weekdays.
+
+**Overall Trend:**
+
+   - Mid-Week Peak: The coffee shop sees the highest transaction volume in the middle of the week, particularly on Thursday, followed closely by Monday and Friday.
+
+   - Weekend Dip: There is a noticeable decline in transactions on the weekend, particularly on Saturday, which has the lowest number of transactions.
+
+   - Tuesday Drop: Tuesday stands out as a day with fewer transactions compared to Monday and Wednesday.
+
