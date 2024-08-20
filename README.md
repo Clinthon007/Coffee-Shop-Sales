@@ -42,10 +42,39 @@ After creating the new fields, their headers were boldened as well as were being
 ---
 ### Exploratory Data Analysis
 
-EDAs were carried out with the use of **Pivot Tables** to look into the following points;
+EDAs were carried out with the use of **Pivot Tables** and **Pivot Charts** to look into the following points;
 
 -  **Revenue** by Month
 -  Number of transactions by **Weekday** and by **Hour** of day (two Pivot tables)
 -  Number of transactions by **Product Category**
 -  Number of transactions and Revenue by **Product type**
 
+    **Slicer** was added finally for the _Store_location_ to connect to the tables created and make it them dynamic in order for users to be able to update themselves with transaction information from the different locations.
+
+---
+
+### Data Analysis
+
+**1. Revenue by Month 
+
+![Monthly_Revenue](https://github.com/user-attachments/assets/8b63bacf-8a4b-493c-a28c-358fd4c42e6f)
+
+**Summary:**
+
+January: The total revenue was $27,313.66. This is the starting point for the year.
+
+February: The revenue decreased to $25,105.34, indicating a slight decline from January.
+
+March: There was a significant increase in revenue, rising to $32,835.43. This marks the beginning of a positive trend.
+
+April: Revenue continued to increase, reaching $39,477.61.
+
+May: The growth trend accelerated, with revenue jumping to $52,428.76.
+
+June: The upward trend continued, with the highest revenue recorded at $55,083.11.
+
+**Overall Trend:**
+
+   - The coffee shop's revenue shows an overall increasing trend from January to June.
+   - Despite a dip in February, the revenue consistently increased each month afterward.
+   - The steepest growth occurred between March and April, and again between April and May.
