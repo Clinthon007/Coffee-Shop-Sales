@@ -6,6 +6,24 @@ It's a coffee shop chain with three (3) different locations in New York City (As
 
 To better understand the purchase behaviour and streamline operations through the raw transactional data collected from Jan-Jun 2023 (first half of the year). The goal is to transform the data into dynamic dashboard that the franchise owners can use to identify patterns, trends and opportunities for the business.
 
+## Table Of Contents
+
+[Data Preparation](#data-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+  - [Location In Astoria](#astoria)
+  
+  - [Location In Hell's Kitchen](#hell-kitchen)
+
+  - [Location In Lower Manhatten](#lower-manhatten) 
+
+[Findings](#findings)
+
+[Recommendations](#recommendations)
+
 ---
 
 ### Data Source
@@ -60,7 +78,7 @@ EDAs were carried out with the use of **Pivot Tables** and **Pivot Charts** to l
 
 ### Data Analysis
 
-  #### A) For Location in ASTORIA:
+  #### ASTORIA:
   
 **1. **REVENUE** by Month**
 
@@ -200,7 +218,7 @@ Overall, coffee and tea dominate the market in Astoria, with bakery items also s
 
   ---
 
-  #### B) For Location in HELL'S KITCHEN:
+  #### HELL KITCHEN:
 
 **1. REVENUE by Month**
 
@@ -278,7 +296,7 @@ Overall, the analysis indicates that Hell's Kitchen's busiest days are during th
 
 ---
 
-#### C) For location in LOWER MANHATTEN:
+#### LOWER MANHATTEN:
 
 **1. REVENUE by Month**
 
@@ -386,7 +404,7 @@ Overall, the analysis indicates that coffee and tea are the driving forces behin
    - Coffee and tea are its top products as well.
 
 
-RECOMMENDATIONS
+### RECOMMENDATIONS
 
 - Since there seemed to be lesser products sold after 6pm for the Manhatten location, it might be better to close the shop after 6pm mark which might help to improve margin if the operating hours is changed.
 
